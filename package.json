@@ -1,7 +1,29 @@
 {
-  "name": "vite-react-typescript-starter",
+  "name": "coffee-shades",
+  "description": "A satirical personality assessment tool that analyzes your antisocial tendencies based on coffee preferences",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "license": "MIT",
+  "homepage": "https://kaleidoscopic-heliotrope-73059c.netlify.app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/coffee-shades.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/coffee-shades/issues"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "coffee",
+    "personality",
+    "assessment",
+    "entertainment",
+    "satirical",
+    "tailwindcss",
+    "vite"
+  ],
   "private": true,
-  "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
